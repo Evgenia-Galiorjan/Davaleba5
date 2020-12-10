@@ -59,7 +59,6 @@ h5{
 	background-color: white;
 	display: inline-block;
 	margin-left: 80px;
-	position: sticky;
 	border: 1px solid #93278F;
 }
 .white-box-small:first-child{
@@ -71,7 +70,7 @@ h5{
 .small-box{
 	width: 155px;
 	height: 80px;
-	background-color: #75B3F9;
+    background-color: #75B3F9;
 	position: relative;
 	border: 1px solid #FFFFFF;
 }
